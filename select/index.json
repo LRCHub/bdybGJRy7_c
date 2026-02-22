@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "星が瞬くこんな夜に",
+  "base_artist": "supercell",
+  "createdAt": "2026-02-22T16:56:22.211117Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星が瞬くこんな夜に",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/01_星が瞬くこんな夜に_supercell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hoshi ga Matataku Konna Yoru ni [星が瞬くこんな夜に]",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/02_Hoshi_ga_Matataku_Konna_Yoru_ni_[星が瞬くこんな夜に]_supercell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hoshi ga Matataku Konna Yoru ni [星が瞬くこんな夜に]",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/03_Hoshi_ga_Matataku_Konna_Yoru_ni_[星が瞬くこんな夜に]_supercell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "星が瞬くこんな夜に 〜ゲームVer.〜",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/04_星が瞬くこんな夜に_〜ゲームVer.〜_supercell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hoshi ga Mabataku Konna Yoru Ni (星が瞬くこんな夜に)",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/05_Hoshi_ga_Mabataku_Konna_Yoru_Ni_(星が瞬くこんな夜に)_supercell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "星が瞬くこんな夜に",
+      "artist": "Supercell",
+      "has_synced": true,
+      "path": "select/06_星が瞬くこんな夜に_Supercell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "星が瞬くこんな夜に",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/07_星が瞬くこんな夜に_supercell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "星が瞬くこんな夜に (Hoshi ga Matataku Konna Yoru ni)",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/08_星が瞬くこんな夜に_(Hoshi_ga_Matataku_Konna_Yoru_ni)_supercell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "星が瞬くこんな夜に ~ゲームVer.~",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/09_星が瞬くこんな夜に_~ゲームVer.~_supercell.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "星が瞬くこんな夜に 〜ゲームVer.〜",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/10_星が瞬くこんな夜に_〜ゲームVer.〜_supercell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "星が瞬くこんな夜に 〜ゲームVer.〜",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/11_星が瞬くこんな夜に_〜ゲームVer.〜_supercell.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星が瞬くこんな夜に",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/pl_01_星が瞬くこんな夜に_supercell.txt"
+    }
+  ]
+}
